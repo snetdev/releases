@@ -12,8 +12,8 @@ for easy installation of S-Net. See the top of
 this script for instructions.
 
 The latest S-Net compiler binaries for Linux:
-[64-bit](https://raw.github.com/snetdev/releases/master/snetc-latest.x86_64.bz2) or
-[32-bit](https://raw.github.com/snetdev/releases/master/snetc-latest.i686.bz2).
+[64-bits](https://raw.github.com/snetdev/releases/master/snetc-latest.x86_64.bz2) or
+[32-bits](https://raw.github.com/snetdev/releases/master/snetc-latest.i686.bz2).
 
 
 Note
