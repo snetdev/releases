@@ -24,8 +24,8 @@ export LPEL_REPO=https://github.com/snetdev/lpel.git
 export SNET_REPO=https://github.com/snetdev/snet-rts.git
 
 # Where to get the S-Net compiler
-export COMPILER_LINUX_64="https://raw.github.com/snetdev/releases/master/2013/snetc-20130626.x86_64.bz2"
-export COMPILER_LINUX_32="https://raw.github.com/snetdev/releases/master/2013/snetc-20130626.i686.bz2"
+export COMPILER_LINUX_64="https://raw.github.com/snetdev/releases/master/snetc-latest.x86_64.bz2"
+export COMPILER_LINUX_32="https://raw.github.com/snetdev/releases/master/snetc-latest.i686.bz2"
 
 # Whether to disable/enable Distributed S-Net with MPI.  Enable this only when
 # you have a working installation of MPI with a working mpicc + mpirun.
